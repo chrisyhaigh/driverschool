@@ -1,15 +1,8 @@
-# Intensive Driving Instructor Website
+# React + Vite
 
-A React and Vite-based website for my dad's driving school business.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
-- Overview of driving instruction services
-- Easy-to-navigate layout
-- Mobile-friendly design
+Currently, two official plugins are available:
 
-## Tech Stack
-- **React**: Frontend framework
-- **Vite**: Development environment
-
-## Deployment
-- This site will be deployed using Hostinger as the web hosting service
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
